@@ -1,0 +1,160 @@
+/*HEADER*/
+
+.regional {
+    display: flex;    
+    width: 80px;
+}
+.itemClass{
+    margin-right: 3px;
+}
+.rectangule {
+    display: flex;
+    width: 1024px;
+    height: 20px;
+    justify-content: space-between;
+    background-color:  #222222;
+    color: white;
+    align-items: center;
+    
+    
+}
+.nav {
+    background-color: #F0A83E;
+    width: 1024px;
+    height: 62px;
+    top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.catanddog {
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/*BANNER*/
+
+.section1 {
+    background-image: url(imagenes/bowl-and-pet-daities-on-green-background1.png);
+    background-size: cover;
+    height: 400px;
+    width: 1024px;
+}
+.claseUno{
+    background-color: white;
+    width: 365px;
+    height: 54px;
+    float: right;
+    font-size: 30px;
+    margin-left: 648px;
+    margin-right: 10px;
+    margin-top: 237px;
+    text-align: center;
+}
+.claseDos{
+    background-color: #F0A83E;
+    width: 141px;
+    height: 49px;
+    float: right;
+    font-size: 20px;
+    margin-top: 34px;
+    color: white;
+    margin-right: 110px;
+    text-align: center;
+}
+.comederos {
+    float: right;
+    font-size: 20px;
+    align-content: center;
+    margin-right: 60px;
+}
+.anav {
+    color: #666666;
+
+}
+.huellagrande {
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.productos {
+    margin-top: 0%;
+    margin-left: 360px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.links {
+    margin-left: 430px;
+}
+.contacto {
+    margin-left: 330px;
+}
+/*FOOTER*/
+.subs {
+    size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    color: white;
+    margin-right: 20px;
+
+}
+.footerN {
+    background-color: #F0A83E;
+    width: 1024px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#button {
+    width: 70px;
+    height: 34px;
+    border-radius: 15px;
+    background-color: #3C2313;
+    color: white;
+}
+.relleno {
+    width: 271px;
+    height: 40px;
+    border-radius: 15px;
+    
+}
+.copyright{
+    background-color: black;
+    width: 1024px;
+    color: white;
+    text-align: center;
+}
+.logo-footer{
+    position: absolute;
+    width: 166px;
+    height: 23px;
+    left: 788px;
+    top: 1636px;
+    border-radius: 50px;
+}
+.footer-contacto{
+    background-color: #3C2313;
+    width: 1024px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.span-footer{
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p-footer{
+    color: #8a8787;
+    font-size: 10px;
+    margin-left: 60px;
+}
